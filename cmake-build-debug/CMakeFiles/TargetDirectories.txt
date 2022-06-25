@@ -1,0 +1,6 @@
+C:/Users/ribre/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ribre/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ribre/CLionProjects/untitled2/cmake-build-debug/src/CMakeFiles/untitled2_run.dir
+C:/Users/ribre/CLionProjects/untitled2/cmake-build-debug/src/CMakeFiles/untitled2_lib.dir
+C:/Users/ribre/CLionProjects/untitled2/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/ribre/CLionProjects/untitled2/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

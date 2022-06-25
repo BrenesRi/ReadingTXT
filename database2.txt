@@ -1,0 +1,5 @@
+name club salary
+Salah Liverpool 6000
+Foden City 4500
+Sancho United 8000
+Werner Chelsea 6500
